@@ -1,4 +1,4 @@
-## [VolumeIcon]
+## VolumeIcon
 
 Download the latest release from here: [Latest Release](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 # Introduction
