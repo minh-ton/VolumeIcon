@@ -40,31 +40,13 @@ Welcome() {     #Welcoming
     echo ${blue}"> This script will apply an icon to your Startup Volume."${erase_style}
     echo ""
     sleep 2
-    echo ${blue}"> This icon can be seen in the Mac boot manager (Holding Option when boot)."${erase_style}
+    echo ${blue}"> This icon is visible in the Mac boot manager (Holding Option when boot)."${erase_style}
     echo ""
     sleep 2
     echo ""
     echo ${move_up}${erase_line}${lime}"- - - > Let's get started"${erase_style}
     echo ""
     sleep 2
-}
-
-Check_Internet() {    #Check Internet connection to download resources
-
-    if [[ $(ping -c 5 www.google.com) == *transmitted* && $(ping -c 5 www.google.com) == *received* ]]; then    #using ping
-    internet_check="passed"
-    else
-    echo ${red}"- This Mac is not connected to the Internet."${erase_style}
-    internet_check="failed"
-    echo ${red}"/ This tool can only run with an internet connection."${erase_style}
-    Input_On
-    echo ""
-    echo ""
-    echo ""
-    echo ""
-    echo ""
-    exit
-    fi
 }
 
 Input_Volume() {    #Input Volume name to have a more precise path
@@ -88,6 +70,26 @@ Input_Volume() {    #Input Volume name to have a more precise path
 
     if [[ $(diskutil info "$volume_name"|grep "Mount Point") == *"/" && ! $(diskutil info "$volume_name"|grep "Mount Point") == *"/Volumes" ]]; then
     sudo mount -uw /
+    fi
+}
+
+Check_Internet() {    #Check Internet connection to download resources
+
+    echo ""
+    echo ${red}"!! Checking your system..."${erase_style}
+    if [[ $(ping -c 5 www.google.com) == *transmitted* && $(ping -c 5 www.google.com) == *received* ]]; then    #using ping
+    internet_check="passed"
+    else
+    echo ${red}"- This Mac is not connected to the Internet."${erase_style}
+    internet_check="failed"
+    echo ${red}"/ This tool can only run with an internet connection."${erase_style}
+    Input_On
+    echo ""
+    echo ""
+    echo ""
+    echo ""
+    echo ""
+    exit
     fi
 }
 
@@ -184,14 +186,14 @@ Finalizing() {
 
     echo ""
     echo ${blue}"/ Thank you for using VolumeIcon."${erase_style}
-    echo ${blue}"Check out MinhTon's other repositories: https://github.com/Minh-Ton"${erase_style}
+    echo ""
+    echo ${green}"- - - > Check out MinhTon's other repositories: https://github.com/Minh-Ton"${erase_style}
     Input_On
     echo ""
     echo ""
     echo ""
     echo ""
     echo ""
-
     exit
 
 }
@@ -201,8 +203,8 @@ echo ""
 Input_Off
 Escape_Variables
 Welcome
-Check_Internet
 Input_Volume
+Check_Internet
 Check_Volume_Version
 Check_Volume_Support
 Input_Operation
