@@ -2,7 +2,7 @@
 
 Download the latest release from here: [Latest Release](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
-#### - This can only run on macOS 10.14 or newer. I will try to support older macOS as soon as possible.
+#### * This can only run on macOS 10.14 or newer. I will try to support older macOS as soon as possible.
 
 ## Introduction
 
