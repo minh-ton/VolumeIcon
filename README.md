@@ -10,6 +10,7 @@ Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/Vo
 
 - This script is to apply an icon to your bootable volume.
 - The icon can be seen in the Mac Boot Manager (Press Option while booting)
+- This script is provided to everyone and open-source for easy editing.
 
 #### Screeenshot 1: Running the script
 ![Optional Text](../resources/Screenshot1.png)
