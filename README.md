@@ -26,5 +26,4 @@ Download the latest release from here: [Latest Release](https://github.com/Minh-
 - All the checking processes are now below the "Input Volume name" section for convenience. 
 - Fixed the problem of temporary files are not removed correctly. 
 - Fixed the text color issue in light mode. 
-- Future releases are no longer be a pre-release. 
 
