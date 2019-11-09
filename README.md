@@ -2,7 +2,7 @@
 
 Download the latest release from here: [Latest Release](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
-Source code can be downloaded here: [Source code](https://github.com/Minh-Ton/VolumeIcon/raw/resources/beta3_source.zip)
+Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/VolumeIcon/raw/resources/beta3_source.zip) | Xcode must be installed in order to open the project file.  
 
 ##### * This can only run on macOS 10.14 or newer. I will try to support older macOS as soon as possible.
 
