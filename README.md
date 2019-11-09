@@ -10,6 +10,7 @@ Download the latest release from here: [Latest Release](https://github.com/Minh-
 - The icon can be seen in the Mac Boot Manager (Press Option while booting)
 
 ![Optional Text](../resources/Screenshot1.png)
+![Optional Text](../resources/Screenshot2.png)
 
 ## How to use:
 
