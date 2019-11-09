@@ -9,7 +9,7 @@ Download the latest release from here: [Latest Release](https://github.com/Minh-
 - This script is to apply an icon to your bootable volume.
 - The icon can be seen in the Mac Boot Manager (Press Option while booting)
 
-![alt tag] (docs/Screenshot1.png)
+![Optional Text](VolumeIcon/master/docs/Screenshot1.png)
 
 ## How to use:
 
