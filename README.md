@@ -19,13 +19,10 @@ Download the latest release from here: [Latest Release](https://github.com/Minh-
 - Step 1: Download the attached file below.
 - Step 2: Run the downloaded VolumeIcon.command script.
 
-## Important
+### Changelogs (v1.0-b3)
 
-- This script is still in the beta stage so it might have some problems while executing.
-- Sometimes due to the OS Version Check feature, the icon is not correctly applied.
-
-### Changelogs (v1.0-b2)
-- All the checking processes are now below the "Input Volume name" section for convenience. 
-- Fixed the problem of temporary files are not removed correctly. 
-- Fixed the text color issue in light mode. 
+- Added emojis to the script (Just for fun).
+- Fixed OS Version Check feature.
+- Changed the color of the blue text to make it readable in dark mode.
+- Fixed the cannot execute issue.
 
