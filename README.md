@@ -14,7 +14,7 @@ Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/Vo
 
 ## How to use:
 
-- Step 1: Download the attached file below.
+- Step 1: Download the script by clicking the link above. 
 - Step 2: Run the downloaded VolumeIcon.command script.
 
 ## Screenshots: 
