@@ -2,14 +2,16 @@
 
 Download the latest release from here: [Latest Release](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
-#### * This can only run on macOS 10.14 or newer. I will try to support older macOS as soon as possible.
+##### * This can only run on macOS 10.14 or newer. I will try to support older macOS as soon as possible.
 
 ## Introduction
 
 - This script is to apply an icon to your bootable volume.
 - The icon can be seen in the Mac Boot Manager (Press Option while booting)
 
+#### Screeenshot 1: Running the script
 ![Optional Text](../resources/Screenshot1.png)
+#### Screen shot 2: No internet connection
 ![Optional Text](../resources/Screenshot2.png)
 
 ## How to use:
