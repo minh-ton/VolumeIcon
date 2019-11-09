@@ -9,6 +9,8 @@ Download the latest release from here: [Latest Release](https://github.com/Minh-
 - This script is to apply an icon to your bootable volume.
 - The icon can be seen in the Mac Boot Manager (Press Option while booting)
 
+![alt text] (https://github.com/Minh-Ton/VolumeIcon/raw/resources/Screen%20Shot%202019-11-09%20at%205.26.56%20PM.png)
+
 ## How to use:
 
 - Step 1: Download the attached file below.
