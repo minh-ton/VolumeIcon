@@ -1,6 +1,6 @@
 # VolumeIcon
 
-Download the latest release from here: [Latest Release](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
+Download the latest release from here: [VolumeIcon v1.0 beta 3](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b3/VolumeIcon.command) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
 Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/VolumeIcon/raw/resources/beta3_source.zip) | Xcode must be installed in order to open the project file.  
 
@@ -12,20 +12,14 @@ Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/Vo
 - The icon can be seen in the Mac Boot Manager (Press Option while booting)
 - This script is provided to everyone and open-source for easy editing.
 
-#### Screeenshot 1: Running the script
-![Optional Text](../resources/Screenshot1.png)
-#### Screen shot 2: No internet connection
-![Optional Text](../resources/Screenshot2.png)
-
 ## How to use:
 
 - Step 1: Download the attached file below.
 - Step 2: Run the downloaded VolumeIcon.command script.
 
-### Changelogs (v1.0-b3)
+## Screenshots: 
 
-- Added emojis to the script (Just for fun).
-- Fixed OS Version Check feature.
-- Changed the color of the blue text to make it readable in dark mode.
-- Fixed the cannot execute issue.
-
+#### Screeenshot 1: Running the script
+![Optional Text](../resources/Screenshot1.png)
+#### Screen shot 2: No internet connection
+![Optional Text](../resources/Screenshot2.png)
