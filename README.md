@@ -1,10 +1,10 @@
 # VolumeIcon
 
-Download the latest release from here: [VolumeIcon v1.0 beta 3](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b3/VolumeIcon.command) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
+Download the latest release from here: [VolumeIcon v1.0 beta 4](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b4/VolumeIcon.command) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
 Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/VolumeIcon/raw/resources/beta3_source.zip) | Xcode must be installed in order to open the project file.  
 
-##### * This can only run on macOS 10.14 or newer. I will try to support older macOS as soon as possible.
+##### * This can only run on macOS 10.13 or newer. I will try to support older macOS as soon as possible.
 
 ## Introduction
 
