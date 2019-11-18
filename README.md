@@ -1,6 +1,6 @@
 # VolumeIcon
 
-#### VolumeIcon is currently having issues making the icons visible at boot... It will be fixed in the next release.
+#### VolumeIcon (v1.0 beta 5 - latest) is currently having issues making the icons visible at boot... It will be fixed in the next release.
 #### It seems like the Mojave icon is unstable... 
 #### => Next release... the script will have a new implementation to ensure that you are running the latest script (Requires Internet)
 
