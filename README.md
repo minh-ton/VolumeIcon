@@ -2,7 +2,7 @@
 
 #### VolumeIcon (v1.0 beta 5 - latest) is currently having issues making the icons visible at boot... It will be fixed in the next release.
 #### It seems like the Mojave icon is unstable... 
-#### => Next release... the script will have a new implementation to ensure that you are running the latest script (Requires Internet)
+#### => Next release... the script will have a new implementation to ensure that you are running the latest version. (Requires Internet)
 
 Download the latest release from here: [VolumeIcon v1.0 beta 5](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b5/VolumeIcon.command) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
