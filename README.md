@@ -1,5 +1,9 @@
 # VolumeIcon
 
+#### VolumeIcon is currently having issues making the icons visible at boot... It will be fixed in the next release.
+#### It seems like the Mojave icon is unstable... 
+#### => Next release... the script will have a new implementation to ensure that you are running the latest script (Requires Internet)
+
 Download the latest release from here: [VolumeIcon v1.0 beta 5](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b5/VolumeIcon.command) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
 Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/VolumeIcon/raw/resources/beta3_source.zip) | Xcode must be installed in order to open the project file.  
