@@ -1,6 +1,6 @@
 # VolumeIcon v1.1
 
-Download the latest release from here: [VolumeIcon v1.0 beta 5](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.1/VolumeIcon.zip) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
+Download the latest release from here: [VolumeIcon v1.1](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.1/VolumeIcon.zip) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
 ##### * This can only run on macOS 10.12 or newer. I will try to support older macOS as soon as possible.
 
