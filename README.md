@@ -1,12 +1,6 @@
-# VolumeIcon
+# VolumeIcon v1.1
 
-#### VolumeIcon (v1.0 beta 5 - latest) is currently having issues making the icons visible at boot... It will be fixed in the next release.
-#### It seems like the Mojave icon is unstable... 
-#### => Next release... the script will have a new implementation to ensure that you are running the latest version. (Requires Internet)
-
-Download the latest release from here: [VolumeIcon v1.0 beta 5](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b5/VolumeIcon.command) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
-
-Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/VolumeIcon/raw/resources/beta3_source.zip) | Xcode must be installed in order to open the project file.  
+Download the latest release from here: [VolumeIcon v1.0 beta 5](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.1/VolumeIcon.zip) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
 ##### * This can only run on macOS 10.12 or newer. I will try to support older macOS as soon as possible.
 
@@ -18,12 +12,14 @@ Source code can be downloaded here: [Source Code](https://github.com/Minh-Ton/Vo
 
 ## How to use:
 
-- Step 1: Download the script [ 👉 Download](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.0-b5/VolumeIcon.command)
-- Step 2: Run the downloaded VolumeIcon.command script.
+- Step 1: Download the script using the link above.
+- Step 2: Click on the VolumeIcon.zip to unzip the file.
+- Step 3: Run the VolumeIcon.command script.
 
 ## Screenshots: 
 
-#### Screeenshot 1: Running the script
+#### More screenshots later. Please wait 😊...
+
 ![Optional Text](../resources/Screenshot1.png)
-#### Screen shot 2: No internet connection
+
 ![Optional Text](../resources/Screenshot2.png)
