@@ -34,6 +34,6 @@ Download the latest release from here: [VolumeIcon v1.1](https://github.com/Minh
 
 ![Optional Text](../resources/screenshots/error2.png)
 
-### - Step 3: A small window will appear ---> Choose Open to execute the script. 
+### - Step 2: A small window will appear ---> Choose Open to execute the script. 
 
 ![Optional Text](../resources/screenshots/error3.png)
