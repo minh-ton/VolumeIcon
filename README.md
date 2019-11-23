@@ -1,4 +1,4 @@
-# VolumeIcon v1.1
+# [VolumeIcon v1.1](https://github.com/Minh-Ton/VolumeIcon)
 
 Download the latest release from here: [VolumeIcon v1.1](https://github.com/Minh-Ton/VolumeIcon/releases/download/v1.1/VolumeIcon.zip) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
@@ -16,7 +16,7 @@ Download the latest release from here: [VolumeIcon v1.1](https://github.com/Minh
 - Step 2: Click on the VolumeIcon.zip to unzip the file.
 - Step 3: Run the VolumeIcon.command script. 
 
-#### If you are encountering an "Unidentified Developer" error, scroll down to the end of this README file. 
+#### If you are encountering an "Unidentified Developer" error, click here: [Troubleshooting issues](https://github.com/Minh-Ton/VolumeIcon/tree/master#4-troubleshooting-issues)
 
 ## 3. Screenshots: 
 
