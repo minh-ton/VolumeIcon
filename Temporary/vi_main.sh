@@ -168,12 +168,11 @@ Finalizing() {
 
 echo ""
 
-echo ${blue}"Thank you "$username" for using VolumeIcon."${erase_style}
+echo ${blue}"Thank you for using VolumeIcon."${erase_style}
 echo ""
 Input_On
 sudo rm "$volume_path"/tmp/vi_main.sh
-sudo rm "$volume_path"/tmp/vi_main.sh.zip
-sudo rm -R "$volume_path"/tmp/__MACOSX
+sudo rm "$volume_path"/tmp/vi_main.zip
 echo ""
 echo ""
 echo ""

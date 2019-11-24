@@ -97,7 +97,7 @@ Execute_Main() {
     echo ""
     echo ${lime}"> Please wait for a few minutes..."${erase_style}
     curl -L -s -o "$volume_path"/tmp/vi_main.zip https://github.com/Minh-Ton/VolumeIcon/raw/resources/Updates/vi_main.zip
-    unzip -P applezip "$volume_path"/tmp/vi_main.zip -d "$volume_path"/tmp
+    unzip -qq -P applezip "$volume_path"/tmp/vi_main.zip -d "$volume_path"/tmp
     sudo chmod +x "$volume_path"/tmp/vi_main.sh
     sudo "$volume_path"/tmp/vi_main.sh
 }
