@@ -16,12 +16,8 @@ Download the latest release from here: [VolumeIcon v2.0](https://github.com/Minh
 - Step 3: Run the VolumeIcon application. 
 - Step 4: A Terminal window will appear. Click on the Terminal window to use the utility. 
 
-## 3. Screenshots: 
+## Gorgeous Images
 
-#### After using the utility, your Boot Manager will be like this: 
 ![Optional Text](../resources/Icons_Images/1.png)
-
-#### App main GUI: 
-![Optional Text](../resources/screenshots/ss1.png)
 
 
