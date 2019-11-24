@@ -22,3 +22,6 @@ Download the latest release from here: [VolumeIcon v2.0](https://github.com/Minh
 
 ![Optional Text](../resources/screenshots/ss1.png)
 
+#### After using the utility, your Boot Manager will be like this: 
+
+![Optional Text](../resources/Icons_Images/1.png)
