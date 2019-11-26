@@ -2,7 +2,7 @@
 
 Download the latest release from here: [VolumeIcon v2.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v2.0.2/VolumeIcon.zip) | [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
-##### * Although you can open the VolumeIcon.app on older macOS, the utility integrates into it will not working because your machine does not meet the minimum requirements (macOS 10.12 or newer)
+#### * Although you can open the VolumeIcon.app on older macOS, the utility integrates into it will not work because your machine does not meet the minimum requirement (macOS 10.12 or newer)
 
 ## 1. Introduction
 
