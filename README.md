@@ -26,7 +26,7 @@ Step 3: Run the VolumeIcon application.
 
 Step 4: A Terminal window will appear. Click on the Terminal window to use the utility. 
 
-### After using the utility... Holding "Option" after Power the machine ON to see the effects...
+### After using the utility... Press and hold the Option (Alt) key immediately after turning on or restarting your Mac to see the effect.
 ![Optional Text](https://github.com/Minh-Ton/VolumeIcon/raw/resources/Icons_Images/1.png)
 
 
