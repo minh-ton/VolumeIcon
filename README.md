@@ -13,13 +13,17 @@
 ## 1. Introduction
 
 This application is to apply an icon to your bootable volume.
+
 The icon can be seen in the Mac Boot Manager (Press Option while booting)
 
 ## 2. How to use:
 
 Step 1: Download the application using the link above.
+
 Step 2: Click on the VolumeIcon.zip to unzip the file.
+
 Step 3: Run the VolumeIcon application. 
+
 Step 4: A Terminal window will appear. Click on the Terminal window to use the utility. 
 
 ### After using the utility... Holding "Option" after Power the machine ON to see the effects...
