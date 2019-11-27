@@ -4,6 +4,8 @@ Download the latest release from here: [VolumeIcon v2.0](https://github.com/Minh
 
 #### * Although you can open the VolumeIcon.app on older macOS, the utility integrates into it will not work because your machine does not meet the minimum requirement (macOS 10.12 or newer)
 
+#### * OS X El Capitan will be added support in the next release (v2.1)
+
 ## 1. Introduction
 
 - This application is to apply an icon to your bootable volume.
