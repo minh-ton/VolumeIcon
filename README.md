@@ -19,6 +19,6 @@ Download the latest release from here: [VolumeIcon v2.0](https://github.com/Minh
 - Step 4: A Terminal window will appear. Click on the Terminal window to use the utility. 
 
 ### After using the utility... Holding "Option" after Power the machine ON to see the effects...
-![Optional Text](../resources/Icons_Images/1.png)
+![Optional Text](https://github.com/Minh-Ton/VolumeIcon/raw/resources/Icons_Images/1.png)
 
 
