@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ScriptBuildVersion</key>
+	<string>11N19</string>
+	<key>ScriptCopyright</key>
+	<string>© 2019 MinhTon.</string>
+	<key>ScriptName</key>
+	<string>VolumeIcon</string>
+	<key>ScriptVersion</key>
+	<string>1.0b6</string>
+	<key>newFeature1</key>
+	<string>- Added Update feature allows you to use the latest version. </string>
+	<key>newFeature2</key>
+	<string>- Fixed some minor bugs.</string>
+	<key>newFeature3</key>
+	<string>- Removed some unused features. </string>
+</dict>
+</plist>
