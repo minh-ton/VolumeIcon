@@ -156,10 +156,12 @@ Input_Off
 
 if [[ $operation == "1" ]]; then
 Install_volIcon
+osascript -e 'display notification "VolumeIcon has finished applying a new shiny icon to your selected volume! Have fun!" with title "VolumeIcon v2.1" sound name "Opening"'
 fi
 
 if [[ $operation == "2" ]]; then
 Remove_volIcon
+osascript -e 'display notification "VolumeIcon has finished removing the icon! Sorry to see you go!" with title "VolumeIcon v2.1" sound name "Opening"'
 fi
 
 }
