@@ -78,16 +78,14 @@ Check_Internet() {    #Check Internet connection to download resources
     internet_check="passed"
     echo ${green}"* Internet Check passed !"${erase_style}
     else
-    echo ${red}" 🌍 This Mac is not connected to the Internet."${erase_style}
-    internet_check="failed"
-    echo ${red}" 😭 This tool can only run with an internet connection."${erase_style}
+    osascript -e 'display alert "This Mac is not connected to the Internet" message "Please run this app with an internet connection." buttons {"Quit"} '
     Input_On
     echo ""
     echo ""
     echo ""
     echo ""
     echo ""
-    exit
+    killall Terminal
     fi
 }
 
