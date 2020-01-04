@@ -114,19 +114,19 @@ Remove_Temp() {
 #Remove temp files (Stored in tmp)
 
 if [[ $volume_version_short == "10.12" ]]; then
-sudo rm "$volume_path"/tmp/Sierra.icns
+sudo rm /tmp/Sierra.icns
 fi
 
 if [[ $volume_version_short == "10.13" ]]; then
-sudo rm "$volume_path"/tmp/HighSierra.icns
+sudo rm /tmp/HighSierra.icns
 fi
 
 if [[ $volume_version_short == "10.14" ]]; then
-sudo rm "$volume_path"/tmp/Mojave.icns
+sudo rm /tmp/Mojave.icns
 fi
 
 if [[ $volume_version_short == "10.15" ]]; then
-sudo rm "$volume_path"/tmp/Catalina.icns
+sudo rm /tmp/Catalina.icns
 fi
 
 }
@@ -191,11 +191,11 @@ sudo mount -uw /
 fi
 echo ""
 echo ${green}"> Downloading resources."${erase_style}
-sudo curl -L -s -o "$volume_path"/tmp/Sierra.icns https://github.com/Minh-Ton/VolumeIcon/raw/resources/Boot_icons/Sierra.icns
+sudo curl -L -s -o /tmp/Sierra.icns https://github.com/Minh-Ton/VolumeIcon/raw/resources/Boot_icons/Sierra.icns
 
 #Copy process...
 echo ${green}"> Adding Volume icon to your startup Volume..."
-sudo cp -a "$volume_path"/tmp/Sierra.icns "$volume_path"/.VolumeIcon.icns
+sudo cp -a /tmp/Sierra.icns "$volume_path"/.VolumeIcon.icns
 echo ${move_up}${erase_line}${lime}"+ Applied Sierra icon to your Volume."${erase_style}
 
 }
@@ -208,11 +208,11 @@ sudo mount -uw /
 fi
 echo ""
 echo ${green}"> Downloading resources."${erase_style}
-sudo curl -L -s -o "$volume_path"/tmp/HighSierra.icns https://github.com/Minh-Ton/VolumeIcon/raw/resources/Boot_icons/HighSierra.icns
+sudo curl -L -s -o /tmp/HighSierra.icns https://github.com/Minh-Ton/VolumeIcon/raw/resources/Boot_icons/HighSierra.icns
 
 #Copy process...
 echo ${green}"> Adding Volume icon to your startup Volume..."
-sudo cp -a "$volume_path"/tmp/HighSierra.icns "$volume_path"/.VolumeIcon.icns
+sudo cp -a /tmp/HighSierra.icns "$volume_path"/.VolumeIcon.icns
 echo ${move_up}${erase_line}${lime}"+ Applied High Sierra icon to your Volume."${erase_style}
 
 }
@@ -225,11 +225,11 @@ sudo mount -uw /
 fi
 echo ""
 echo ${green}"> Downloading resources."${erase_style}
-sudo curl -L -s -o "$volume_path"/tmp/Mojave.icns https://github.com/Minh-Ton/Volumeicon/raw/resources/Boot_icons/Mojave.icns
+sudo curl -L -s -o /tmp/Mojave.icns https://github.com/Minh-Ton/Volumeicon/raw/resources/Boot_icons/Mojave.icns
 
 #Copy process...
 echo ${green}"> Adding Volume icon to your startup Volume..."
-sudo cp -a "$volume_path"/tmp/Mojave.icns "$volume_path"/.VolumeIcon.icns
+sudo cp -a /tmp/Mojave.icns "$volume_path"/.VolumeIcon.icns
 echo ${move_up}${erase_line}${lime}"+ Applied Mojave icon to your Volume."${erase_style}
 
 }
@@ -242,11 +242,11 @@ sudo mount -uw /
 fi
 echo ""
 echo ${green}"> Downloading resources."${erase_style}
-sudo curl -L -s -o "$volume_path"/tmp/Catalina.icns https://github.com/Minh-Ton/VolumeIcon/raw/resources/Boot_icons/Catalina.icns
+sudo curl -L -s -o /tmp/Catalina.icns https://github.com/Minh-Ton/VolumeIcon/raw/resources/Boot_icons/Catalina.icns
 
 #Copy process...
 echo ${green}"> Adding Volume icon to your startup Volume..."
-sudo cp -a "$volume_path"/tmp/Catalina.icns "$volume_path"/.VolumeIcon.icns
+sudo cp -a /tmp/Catalina.icns "$volume_path"/.VolumeIcon.icns
 echo ${move_up}${erase_line}${lime}"+ Applied Catalina icon to your Volume."${erase_style}
 
 }
