@@ -6,35 +6,23 @@
 	<dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		tAPJ9nlXrQ2K6ByqeySRBohmNaQ=
+		zvqNk+OPddr3nyczQUtAznZru0E=
 		</data>
 		<key>Resources/VolumeIcon.command</key>
 		<data>
-		VnpkssaeQsVjSsh2U8cMgJVadnY=
+		H9tsWTccFtZr73eu8uevd84TEsg=
 		</data>
 		<key>Resources/applet.icns</key>
 		<data>
-		eyZ9UPU5D89y6+LStyHFZ0t6Eaw=
+		sINd6lbiqHD5dL8c6u79cFvVXhw=
 		</data>
 		<key>Resources/applet.rsrc</key>
 		<data>
-		EzmkAT6a+vdO1fVmrtSst1P3DhM=
+		kCuawKV1e3aLRDVXKSrdHDahG38=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
 		mR19JgomoE0yIlhEnR2cmVG6g04=
-		</data>
-		<key>Resources/reboot_scrpt.sh</key>
-		<data>
-		rULVKBM9fYCG/5Xb//BkhyO144k=
-		</data>
-		<key>Resources/step1_delete.sh</key>
-		<data>
-		kNnfAFUD7ohBQ2L05bs31fxRza8=
-		</data>
-		<key>Resources/step2_delete.sh</key>
-		<data>
-		pRvFPTiB2kWsG9Zd35Pq4S7BJVk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,44 +31,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tAPJ9nlXrQ2K6ByqeySRBohmNaQ=
+			zvqNk+OPddr3nyczQUtAznZru0E=
 			</data>
 			<key>hash2</key>
 			<data>
-			gYCs0h7sCFUHWMZercnBI5rqwN9000vNdtIGJ14cWSE=
+			I3PBcFpwLue7XQPJhRNQU5mSwfCAZ/v2VwBZCpZ6Td8=
 			</data>
 		</dict>
 		<key>Resources/VolumeIcon.command</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VnpkssaeQsVjSsh2U8cMgJVadnY=
+			H9tsWTccFtZr73eu8uevd84TEsg=
 			</data>
 			<key>hash2</key>
 			<data>
-			DXaww+H/IvIP/o64+aNUnUHfXNCk4Hnp+TgClC6n36U=
+			7DESTymDgzYQD9lQnbNGhI4cj9P1eTMFLSey1Ms+bLc=
 			</data>
 		</dict>
 		<key>Resources/applet.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eyZ9UPU5D89y6+LStyHFZ0t6Eaw=
+			sINd6lbiqHD5dL8c6u79cFvVXhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			v0ub8bRbtcfITTnx/Qv2Mr8RAqGNvqebPZg2myoT6qk=
+			J7weZ6vlnv9r32tS5HFcyuPXl2StdDnfepLxAixlryk=
 			</data>
 		</dict>
 		<key>Resources/applet.rsrc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EzmkAT6a+vdO1fVmrtSst1P3DhM=
+			kCuawKV1e3aLRDVXKSrdHDahG38=
 			</data>
 			<key>hash2</key>
 			<data>
-			UbWdIyHvpSFq2Nf/ocSRcPhvpDknA4BdYXG5QjHJ9yk=
+			Zv8pBt/zf2RQdCXPe/HlOD7xil9APzi4GITl8+whep4=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
@@ -92,39 +80,6 @@
 			<key>hash2</key>
 			<data>
 			D5ccnN/XTmFuoYSapek1e/B4K86h/MSMwbtv3ZhldKU=
-			</data>
-		</dict>
-		<key>Resources/reboot_scrpt.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rULVKBM9fYCG/5Xb//BkhyO144k=
-			</data>
-			<key>hash2</key>
-			<data>
-			amb/1l41C8D0BA8P13eDCnlC9MR48pUZgRS0OvpuM0g=
-			</data>
-		</dict>
-		<key>Resources/step1_delete.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kNnfAFUD7ohBQ2L05bs31fxRza8=
-			</data>
-			<key>hash2</key>
-			<data>
-			QLFuDUifo13gwfOeWf098TTKqsmC979ywUmQy+UPVMo=
-			</data>
-		</dict>
-		<key>Resources/step2_delete.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pRvFPTiB2kWsG9Zd35Pq4S7BJVk=
-			</data>
-			<key>hash2</key>
-			<data>
-			uGzF5cRMyEGhRLpXeiuoByA38Fsrauvvf+k2Qi7p9I4=
 			</data>
 		</dict>
 	</dict>

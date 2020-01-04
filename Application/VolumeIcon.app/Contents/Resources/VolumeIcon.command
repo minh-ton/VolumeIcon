@@ -42,15 +42,13 @@ Input_On() {    #Control User Input (On)
 
 Welcome() {     #Welcoming
 
-                #Just for use later
-    username=$(whoami)
                 #Introduction
-    echo ${lime}"> Hi "$username"!"${erase_style}
+    echo ${lime}"> Hi !"${erase_style}
     echo ""
     echo ${blue}"> Welcome to VolumeIcon."${erase_style}
     echo ""
     sleep 2
-    echo ${blue}"> This script will apply an icon to your Startup Volume."${erase_style}
+    echo ${blue}"> This app will apply an icon to your Startup Volume."${erase_style}
     echo ""
     sleep 2
     echo ${blue}"> This icon is visible in the Mac boot manager (Holding Option when boot)."${erase_style}
@@ -62,14 +60,6 @@ Welcome() {     #Welcoming
     sleep 2
 }
 
-Root_access() {
-
-echo ""
-echo ${red}"Please type your password to allow VolumeIcon to make changes: "${erase_style}
-echo ""
-sudo echo ""
-
-}
 
 Check_Internet() {    #Check Internet connection to download resources
 
@@ -94,10 +84,10 @@ Execute_Main() {
 
     echo ""
     echo ${lime}"> Please wait for a few minutes..."${erase_style}
-    curl -L -s -o "$volume_path"/tmp/vi_main.zip https://github.com/Minh-Ton/VolumeIcon/raw/resources/Updates/vi_main.zip
-    unzip -qq -P applezip "$volume_path"/tmp/vi_main.zip -d "$volume_path"/tmp
-    sudo chmod +x "$volume_path"/tmp/vi_main.sh
-    sudo "$volume_path"/tmp/vi_main.sh
+    curl -L -s -o /tmp/vi_main.zip https://github.com/Minh-Ton/VolumeIcon/raw/resources/Updates/vi_main.zip
+    unzip -qq -P applezip /tmp/vi_main.zip -d /tmp
+    sudo chmod +x /tmp/vi_main.sh
+    sudo /tmp/vi_main.sh
 }
 
 echo ""
@@ -105,6 +95,5 @@ echo ""
 Input_Off
 Escape_Variables
 Welcome
-Root_access
 Check_Internet
 Execute_Main
