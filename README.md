@@ -2,7 +2,7 @@
 
 ⬇️ Download the latest release from here: [VolumeIcon v3.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v3.0.0/VolumeIcon3.0.dmg) (Recommended)
 
-🕰 Still prefer VolumeIcon v2.2? Download here: [Version 2.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v2.2.0/VolumeIcon.zip)
+🕰 Still prefer VolumeIcon v2.2? Download here: [Version 2.2](https://github.com/Minh-Ton/VolumeIcon/releases/download/v2.2.0/VolumeIcon.zip)
 
 ⌛️ Want to see release notes? See here: [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
