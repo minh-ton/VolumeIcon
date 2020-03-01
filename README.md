@@ -1,6 +1,8 @@
 # [VolumeIcon v2.2](https://github.com/Minh-Ton/VolumeIcon)
 
-⬇️ Download the latest release from here: [VolumeIcon v2.2](https://github.com/Minh-Ton/VolumeIcon/releases/download/v2.2.0/VolumeIcon.zip) 
+⬇️ Download the latest release from here: [VolumeIcon v3.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v3.0.0/VolumeIcon3.0.dmg) (Recommended)
+
+🕰 Still prefer VolumeIcon v2.2? Download here: [Version 2.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v2.2.0/VolumeIcon.zip)
 
 ⌛️ Want to see release notes? See here: [Changelogs](https://github.com/Minh-Ton/VolumeIcon/releases/latest)
 
@@ -8,57 +10,16 @@
 
 This application is to apply an icon to your bootable volume.
 
-The icon can be seen in the Mac Boot Manager (Press Option while booting)
+The icon is visible in the Mac Boot Manager (Press Option while booting)
 
-#### Minimum requirement: macOS 10.12.6 or newer
+#### Minimum requirement: macOS 10.12.0 or newer
 
-## 2. How to use:
+## 2. Version 2.2 and 3.0 comparison:
 
-Step 1: Download the application using the link above.
+- Version 3.0: The functions and features are the same as v2.2, but v3.0 provides user a GUI (Graphical User Interface) in order to make the process easier and smoother as well as a lot of amazing new functions (See changelogs above)
 
-Step 2: Click on the VolumeIcon.zip to unzip the file.
+- Version 2.0: The app was compiled using shell script, which lacks of a GUI and issues and problems might happen while executing the application. However, it is still have the basic features (Apply Volume Icon, Remove Volume Icon). The size is relatively small compared to v3.0. This version is also suitable for those who want to have a brief understanding of how VolumeIcon works.
 
-Step 3: Run the VolumeIcon application. 
-
-Step 4: A Terminal window will appear. Click on the Terminal window to use the utility. 
 
 ### After using the utility... Press and hold the Option (Alt) key immediately after turning on or restarting your Mac to see the effect.
 ![Optional Text](https://github.com/Minh-Ton/VolumeIcon/raw/resources/Icons_Images/1.png)
-
-## Source code:
-
-### AppleScript app: 
-
-```AppleScript 
-set app_directory to POSIX path of (path to me)
-set VolumeIcon to quoted form of (app_directory & "Contents/Resources/VolumeIcon.command")
-set step1_clrtmp to quoted form of (app_directory & "Contents/Resources/step1_delete.sh")
-set step2_clrtmp to quoted form of (app_directory & "Contents/Resources/step2_delete.sh")
-set reboot_scrpt to quoted form of (app_directory & "Contents/Resources/reboot_scrpt.sh")
---> Hide/minimize all windows
-tell application "Finder"
-	set visible of every process whose visible is true to false
-	set the collapsed of windows to true
-end tell
---> Execute the script
-do shell script "/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal " & VolumeIcon & " >/dev/null &" with administrator privileges
---> Cleaning up files
-do shell script step1_clrtmp with administrator privileges
-do shell script step2_clrtmp with administrator privileges
-set n to 2
-set progress total steps to n
-set progress description to "VolumeIcon v2.2"
-set progress additional description to "Cleaning up temporary files..."
-repeat with i from 1 to n
-	delay 1
-	set progress completed steps to i
-end repeat
---> Promp user to restart
-display alert "Messages from VolumeIcon v2.2" message "Would you like to restart your Mac for changes to be applied?" as critical buttons {"Restart later", "Restart now"} default button "Restart now" cancel button "Restart later"
-if the button returned of the result is "Restart now" then
-	do shell script reboot_scrpt
-	quit
-else
-	quit
-end if
-```
