@@ -1,4 +1,4 @@
-# [VolumeIcon v2.2](https://github.com/Minh-Ton/VolumeIcon)
+# [VolumeIcon](https://github.com/Minh-Ton/VolumeIcon)
 
 ⬇️ Download the latest release from here: [VolumeIcon v3.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v3.0.0/VolumeIcon3.0.dmg) (Recommended)
 
