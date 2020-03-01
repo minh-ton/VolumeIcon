@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		tAPJ9nlXrQ2K6ByqeySRBohmNaQ=
+		pdOtyC0gjdtO2581XTWMk+rT1KA=
 		</data>
 		<key>Resources/VolumeIcon.command</key>
 		<data>
@@ -14,19 +14,15 @@
 		</data>
 		<key>Resources/applet.icns</key>
 		<data>
-		eyZ9UPU5D89y6+LStyHFZ0t6Eaw=
+		sINd6lbiqHD5dL8c6u79cFvVXhw=
 		</data>
 		<key>Resources/applet.rsrc</key>
 		<data>
-		EzmkAT6a+vdO1fVmrtSst1P3DhM=
+		Qv8RgZDapVEDDsj7EjroVziVYTE=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
 		mR19JgomoE0yIlhEnR2cmVG6g04=
-		</data>
-		<key>Resources/reboot_scrpt.sh</key>
-		<data>
-		rULVKBM9fYCG/5Xb//BkhyO144k=
 		</data>
 		<key>Resources/step1_delete.sh</key>
 		<data>
@@ -43,11 +39,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tAPJ9nlXrQ2K6ByqeySRBohmNaQ=
+			pdOtyC0gjdtO2581XTWMk+rT1KA=
 			</data>
 			<key>hash2</key>
 			<data>
-			gYCs0h7sCFUHWMZercnBI5rqwN9000vNdtIGJ14cWSE=
+			vYPL6A1Uq3czE+05ySffBfPqY9hiW9qw42dD2fKFNVs=
 			</data>
 		</dict>
 		<key>Resources/VolumeIcon.command</key>
@@ -65,22 +61,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eyZ9UPU5D89y6+LStyHFZ0t6Eaw=
+			sINd6lbiqHD5dL8c6u79cFvVXhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			v0ub8bRbtcfITTnx/Qv2Mr8RAqGNvqebPZg2myoT6qk=
+			J7weZ6vlnv9r32tS5HFcyuPXl2StdDnfepLxAixlryk=
 			</data>
 		</dict>
 		<key>Resources/applet.rsrc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EzmkAT6a+vdO1fVmrtSst1P3DhM=
+			Qv8RgZDapVEDDsj7EjroVziVYTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UbWdIyHvpSFq2Nf/ocSRcPhvpDknA4BdYXG5QjHJ9yk=
+			m0XCXdRfXoMdVpWGT7u20zv+xyxkwO3JCvS86c6CvFM=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
@@ -92,17 +88,6 @@
 			<key>hash2</key>
 			<data>
 			D5ccnN/XTmFuoYSapek1e/B4K86h/MSMwbtv3ZhldKU=
-			</data>
-		</dict>
-		<key>Resources/reboot_scrpt.sh</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rULVKBM9fYCG/5Xb//BkhyO144k=
-			</data>
-			<key>hash2</key>
-			<data>
-			amb/1l41C8D0BA8P13eDCnlC9MR48pUZgRS0OvpuM0g=
 			</data>
 		</dict>
 		<key>Resources/step1_delete.sh</key>
