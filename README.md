@@ -1,3 +1,5 @@
+<img align="right" width="30%" src="https://github.com/Minh-Ton/VolumeIcon/raw/master/XcodeProject_v3/AppIconPNG.png">
+
 # [VolumeIcon](https://github.com/Minh-Ton/VolumeIcon)
 
 ⬇️ Download the latest release from here: [VolumeIcon v3.0](https://github.com/Minh-Ton/VolumeIcon/releases/download/v3.0.0/VolumeIcon3.0.dmg) (Recommended)
@@ -22,4 +24,3 @@ The icon is visible in the Mac Boot Manager (Press Option while booting)
 
 
 ### After using the utility... Press and hold the Option (Alt) key immediately after turning on or restarting your Mac to see the effect.
-![Optional Text](https://github.com/Minh-Ton/VolumeIcon/raw/resources/Icons_Images/1.png)
