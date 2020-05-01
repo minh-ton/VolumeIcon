@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="https://github.com/Minh-Ton/VolumeIcon/raw/master/XcodeProject_v3/AppIconPNG.png">
+<img align="right" width="30%" src="https://github.com/Minh-Ton/VolumeIcon/raw/master/XcodeProject/v3/AppIconPNG.png">
 
 # [VolumeIcon](https://github.com/Minh-Ton/VolumeIcon)
 
