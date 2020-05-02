@@ -6,5 +6,7 @@
 	<string></string>
 	<key>SelectedChoice</key>
 	<string></string>
+	<key>IconFileName</key>
+	<string></string>
 </dict>
 </plist>

@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		017C4681245C692000E89484 /* STPrivilegedTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 017C4680245C692000E89484 /* STPrivilegedTask.m */; };
+		017C4683245C7EC500E89484 /* VolumeIcon.sh in Resources */ = {isa = PBXBuildFile; fileRef = 017C4682245C7EC500E89484 /* VolumeIcon.sh */; };
+		017C4685245D07C500E89484 /* Cleanup.sh in Resources */ = {isa = PBXBuildFile; fileRef = 017C4684245D07C500E89484 /* Cleanup.sh */; };
 		01ED0C22245B196E00D0BA41 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01ED0C21245B196E00D0BA41 /* AppDelegate.m */; };
 		01ED0C24245B197200D0BA41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01ED0C23245B197200D0BA41 /* Assets.xcassets */; };
 		01ED0C27245B197200D0BA41 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 01ED0C25245B197200D0BA41 /* MainMenu.xib */; };
@@ -23,6 +25,8 @@
 /* Begin PBXFileReference section */
 		017C467F245C691F00E89484 /* STPrivilegedTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STPrivilegedTask.h; sourceTree = "<group>"; };
 		017C4680245C692000E89484 /* STPrivilegedTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STPrivilegedTask.m; sourceTree = "<group>"; };
+		017C4682245C7EC500E89484 /* VolumeIcon.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = VolumeIcon.sh; sourceTree = "<group>"; };
+		017C4684245D07C500E89484 /* Cleanup.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = Cleanup.sh; path = "Other files/Cleanup.sh"; sourceTree = SOURCE_ROOT; };
 		01ED0C1D245B196E00D0BA41 /* VolumeIcon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VolumeIcon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01ED0C20245B196E00D0BA41 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		01ED0C21245B196E00D0BA41 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 		01ED0C46245BAFF400D0BA41 /* Other files */ = {
 			isa = PBXGroup;
 			children = (
+				017C4682245C7EC500E89484 /* VolumeIcon.sh */,
+				017C4684245D07C500E89484 /* Cleanup.sh */,
 				01ED0C47245BC3C200D0BA41 /* VolumeIconFlags.plist */,
 				01ED0C3B245B245F00D0BA41 /* volumeicon.bundle */,
 			);
@@ -162,6 +168,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				017C4685245D07C500E89484 /* Cleanup.sh in Resources */,
 				01ED0C38245B239000D0BA41 /* HDD.png in Resources */,
 				01ED0C24245B197200D0BA41 /* Assets.xcassets in Resources */,
 				01ED0C27245B197200D0BA41 /* MainMenu.xib in Resources */,
@@ -169,6 +176,7 @@
 				01ED0C3C245B245F00D0BA41 /* volumeicon.bundle in Resources */,
 				01ED0C48245BC3C200D0BA41 /* VolumeIconFlags.plist in Resources */,
 				01ED0C3A245B23E500D0BA41 /* HDD2.icns in Resources */,
+				017C4683245C7EC500E89484 /* VolumeIcon.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
