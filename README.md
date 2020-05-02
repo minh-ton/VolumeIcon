@@ -19,4 +19,4 @@ The icon is visible in the Mac Boot Manager (Press Option immediately when turn 
 
 ## License
 
-- This project is licensed under the GLP-3.0 License. See LICENSE.md for more info. 
+- This project is licensed under the GPL-3.0 License. See LICENSE.md for more info. 
