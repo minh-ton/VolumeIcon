@@ -6,7 +6,7 @@
 
 🕰 Still prefer version v2.2? Download here: [VolumeIcon 2.2](https://github.com/Minh-Ton/VolumeIcon/releases/download/v2.2.0/VolumeIcon.zip)
 
-## 1. Information
+## Information
 
 This application is to apply an icon to your bootable volume.
 
